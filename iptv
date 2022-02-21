@@ -4,9 +4,6 @@
 #EXTINF:-1 group-title="Desenhos" tvg-logo="https://i.imgur.com/HwIZA9P.jpg",RETRO CARTOON
 https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
 
-#EXTINF:-1 group-title="Entretenimento" tvg-logo="https://i.imgur.com/jcNcvta.png",A&E
-https://play.brasiltvweb.com/v3/youshi/m1_PwsKRjIegyASUaYBiH3ou5LT_480p.m3u8?user_id=63805896&session_id=WL48k6KnYTEz&app_id=com.global.brasiltvweb&auth_id=63805896_com.global.brasiltvweb&app_ver=10101&client_ip=200.215.227.85&dev_limit=1&main_addr=https://play.brasiltvweb.com/v3/youshi/&rst_status=0&dev_id=b71217b1&spared_addr=https://105m3u8.epg-kc.com/v3/youshi/&expired=1645418944&token=916E42B22B44AAB354D9DCD4C5828327&media_code=m1_PwsKRjIegyASUaYBiH3ou5LT_480p
- 
 #EXTINF:-1 group-title="Entretenimento" tvg-logo="https://i.imgur.com/OqBzRtN.png",BAND
 http://168.205.87.198:8555/live/michele/123456/19.ts
  
